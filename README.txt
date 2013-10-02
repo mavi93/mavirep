@@ -1,3 +1,2 @@
-1.test
-2.test2
-3.test 3
+Created by ALEX SUPPES a.k.a MAVI
+for future university project!
